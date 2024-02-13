@@ -6,7 +6,7 @@ from turtle import *
 #step 1: draw a square
 
 
-width(7)
+from turtle import *
 
 color("purple")
 speed(75)
